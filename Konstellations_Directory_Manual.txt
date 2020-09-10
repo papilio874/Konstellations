@@ -3,7 +3,9 @@
 // number to each body included - this makes it easy to locate all planets
 // belonging to one system, for instance.
 // 
-//
+// Trust me, it gets easier to understand with time.
+
+
 // - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
 // the address number contains four or more sub-numbers each denoting a part of the body's location in the "family tree", if you will. 
 // Take our real-life solar system's Jupiter for instance:
