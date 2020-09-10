@@ -1,0 +1,29 @@
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
+// The Konstellations Galaxy Pack systematically assigns a unique address
+// number to each body included - this makes it easy to locate all planets
+// belonging to one system, for instance.
+// 
+//
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
+// the address number contains four or more sub-numbers each denoting a part of the body's location in the "family tree", if you will. 
+// Take our real-life solar system's Jupiter for instance:
+// [003]-000-000-006_Jupiter
+// The "003" indicates that this body is located in Sector Three of the galaxy, which contains all of the relevant real-world stars.
+//
+// 003-[000]-000-006_Jupiter
+// Now let's focus on the secong number in the sequence: Konstellation. In all Sectors except Sector Two, this is the number of the konstellation that a system is a part of. 
+// If the second number is 000, then the object in question is not actually a member of a konstellation but is instead the primary home system for that sector.
+// in order: Sector Zero - GCSBH; Sector One - Kerbol; Sector Two - Alternis (Here the term "konstellation" gains a second meaning, indicating what planet pack the system is copied from.); Sector Three (Sol) Real-Life; Sector Four; Sector Five
+
+// 003-000-[000]-006_Jupiter
+// the third number in the address is the number of the system in its konstellation: 000 is Alpha <>, 002 is Beta <>, and so on. 
+// The only exceptions to this are again the primary home systems, for which it is always 000.
+
+// The fourth number indicates the object's position in the sequence by least-to-greatest semi-major axis (average orbital distance to its parents[s]) of objects in the system specified by the last three numbers.
+//for example in the Sol System, indicated by first three address numbers 003-000-000, our sun, the system primary Sol, is indicated by the address "003-000-000-000_Sol". 
+It is followed by 003-000-000-001_Mercury, 003-000-000-002_Venus, and so on.
+
+//fifth numbers in addresses are only applicable to moons and objects in binaries or larger systems. Again, they are ordered by least to greatest average distance to their parent. 
+Let's look at a complicated and less intuitive example of this. Our Home Planet, Earth, orbits a common barycenter with the Moon. 
+Because it is the primary child of the barycenter, the respective adresses are: 
+003-000-000-004_Earth-Moon_Barycenter, 003-000-000-004-000_Earth, and finally 003-000-000-004-001_Moon.
