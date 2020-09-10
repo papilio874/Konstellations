@@ -1,0 +1,42 @@
+// - - - - - ◊
+
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
+
+000 - Sector Zero
+000-000 - Sector Zero Primary System
+000-000-000 - Sector Zero Primary System
+000-000-000-000 - Galactic Central Supermassive Black Hole [Sagittarius A Star]
+
+001 - Sector One
+001-000 - Sector One Primary System
+001-000-000 - Sector One Primary System [Kerbol System]
+001-000-000-000 - KERBOL
+001-000-000-001 - Moho
+001-000-000-002 - Eve
+001-000-000-002-000 - Gilly
+001-000-000-003 - Kerbin
+001-000-000-003-000 - Mun
+001-000-000-003-001 - Minmus
+001-000-000-004 - Duna
+001-000-000-004-000 - Ike
+001-000-000-005 - Dres
+001-000-000-006 - Jool
+001-000-000-006-000 - Laythe
+001-000-000-006-001 - Vall
+001-000-000-006-002 - Tylo
+001-000-000-006-003 - Bop
+001-000-000-006-004 - Pol
+
+//
+
+002 - Sector Two [Alternis]
+002-000 sector Two Primary System
+002-000-000 Sector Two Primary System [Alternis System]
+002-000-000-000 ALTERNIS
+
+003 - Sector Three - REAL-Life
+
+004 - Sector Four - LOONA
+
+005 - Sector Five - Dappil
+	
