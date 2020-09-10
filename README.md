@@ -1,6 +1,6 @@
 # Konstellations Galaxy Pack v. 0.0.1
 // - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
-Konstellations is what will hopefully be a culmination of all things planet-pack
+Konstellations is what will hopefully be a culmination of all things planet-pack on an incredible scale.
 
 I hope to recieve permission to integrate (by which I mean copy nearly-verbatim but reformat for ease of reading and occasionally make small edits to suit my aesthetic) numerous planet packs from all reaches of the astronomy-spaceflight simulator community, including Kerbal Space Program, Celestia, and Space Engine.
 
