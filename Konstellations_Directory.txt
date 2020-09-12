@@ -47,6 +47,25 @@
 │	│			│	└ 002-000-000-005-000 Veng {Alternis Vall}
 │	│			├ 002-000-000-006 Gillian {Alternis Gilly}
 │	│			└ 002-000-000-007 Isaac {Alternis Extra Comet}
+│	└
 ├ 003 Galactic Sector Three
+│	├ 003-000 Galactic Sector Three Primary System {SOL SYSTEM}
+│	│	└ 003-000-000 SOL SYSTEM
+│	│		├ 003-000-000-000 Sol
+│	│		├ 003-000-000-001 Mercury
+│	│		├ 003-000-000-002 Venus
+│	│		├ 003-000-000-003 Earth-Moon Barycenter
+│	│		├ 003-000-000-004 Mars
+│	│		├ 003-000-000-005 Ceres
+│	│		├ 003-000-000-006 Jupiter
+│	│		├ 003-000-000-007 Saturn
+│	│		├ 003-000-000-008 Uranus
+│	│		├ 003-000-000-009 Neptune
+│	│		├ 003-000-000-010 Pluto-Charon Barycenter
+│	│		├ 003-000-000-011 Haumea
+│	│		├ 003-000-000-012 Makemake
+│	│		└ 003-000-000-013 Eris
+│	│			└ 003-000-000-013-000 Dysnomia
+│	├ 003-001 Andromeda (Konstellation)
 ├ 004 Galactic Sector Four
 ├ 005 Galactic Sector Five
