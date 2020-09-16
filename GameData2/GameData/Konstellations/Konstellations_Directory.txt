@@ -1,0 +1,70 @@
+// - - - - - ◊◊◊◊◊◊◊ - - - - - //
+//
+//
+//
+// - - - - - ◊◊◊◊◊◊◊ - - - - - //
+//
+// - - - - - ◊◊◊◊◊◊◊ - - - - - //
+
+//Also, sorry about the numbering system being slightly counter-intuitive
+
+║│─└╙║╟├
+⟦⟧⟨⟩⟪⟫⟬⟭⟮⟯⦅⦆⦉⦊⧼⧽{}[]
+
+Konstellations Galaxy
+╟ 000 Galactic Sector Zero
+║	├ 000-000 Galactic Sector Zero Primary System
+║	│	└ 000-000-000 Galactic Central Supermassive Black Hole System
+║	│		└ 000-000-000-000 Galactic Central Supermassive Black Hole [GCSBH] ⟨X - Black Hole⟩
+║	│			├ 000-000-000-000-000 S0-1 ⟨Star Type Here⟩
+║	│			├ 000-000-000-000-001 S0-2
+║	│			├ 000-000-000-000-002 S0-3
+║	│			├ 000-000-000-000-003 S0-4
+║	│			├ 000-000-000-000-004 S0-5
+╟ 001 Galactic Sector One
+║	├ 001-000 Galactic Sector Two Primary System
+║	│	└ 001-000-000 Kerbol System
+║	│		└ 001-000-000-000 Kerbol ⟨G5.0 IV ∞ - Eternally-Stable Yellow Subgiant⟩
+║	│			├ 001-000-000-000-000 Moho
+║	│			├ 001-000-000-000-001 Eve
+║	│			├ 001-000-000-000-002 Kerbin
+║	│			├ 001-000-000-000-003 Duna
+║	│			├ 001-000-000-000-004 Dres
+║	│			├ 001-000-000-000-005 Jool
+║	│			├ 001-000-000-000-006 Sarnus
+║	│			├ 001-000-000-000-007 Urlum
+║	│			├ 001-000-000-000-008 Neidon
+║	│			└ 001-000-000-000-009 Plock-Karen Barycenter
+║	│				├ 001-000-000-000-009-000 Plock
+║	│				└ 001-000-000-000-009-001 Karen
+╟ 002 Galactic Sector Two
+╟ 003 Galactic Sector Three
+║	├ 003-000 Galactic Sector Three Primary System
+║	│	└ 003-000-000 Sol System
+║	│		└ 003-000-000-000 Sol ⟨G2.0 V - Main Sequence Yellow Dwarf⟩
+║	│			├ 003-000-000-000-000 Mercury
+║	│			├ 003-000-000-000-001 Venus
+║	│			├ 003-000-000-000-002 Earth-Moon Barycenter
+║	│			│	├ 003-000-000-000-002-000 Earth
+║	│			│	└ 003-000-000-000-002-001 Moon
+║	│			├ 003-000-000-000-003 Mars
+║	│			│	├ 003-000-000-000-003-000 Phobos
+║	│			│	└ 003-000-000-000-003-001 Deimos
+║	│			├ 003-000-000-000-004 Ceres
+║	│			├ 003-000-000-000-005 Jupiter
+║	│			│	├ 003-000-000-000-005-___ Inner Minor Moons
+║	│			│	├ 003-000-000-000-005-___ Io
+║	│			│	├ 003-000-000-000-005-___ Europa
+║	│			│	├ 003-000-000-000-005-___ Ganymede
+║	│			│	├ 003-000-000-000-005-___ Callisto
+║	│			│	└ 003-000-000-000-005-___ Outer Minor Moons
+║	│			├ 003-000-000-000-006 Saturn
+║	│			├ 003-000-000-000-008 Uranus
+║	│			├ 003-000-000-000-009 Neptune
+║	│			├ 003-000-000-000-010 Pluto-Charon Baryenter
+║	│			├ 003-000-000-000-011 Haumea
+║	│			├ 003-000-000-000-012 Makemake
+║	│			└ 003-000-000-000-013 Eris
+║	│				└ 003-000-000-000-013-000 Dysnomia
+╟ 004 Galactic Sector Four
+╙ 005 Galactic Sector Five
