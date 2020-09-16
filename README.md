@@ -33,22 +33,21 @@ Galactic Sector One
 Galactic Sector Two
 
 Galactic Sector Three
-
 - 003-000-000 Sol System
   - Sol
-  - Mercury
-  - Venus
-  - Earth-Moon
-  - Mars
-  - Ceres
-  - Jupiter
-  - Saturn
-  - Uranus
-    - The textures for Uranus' surface and rings are both modified versions of original work by Deviantart user ***Snowfall-The-Cat***.
-      - The surface texture was created using image-editing software to piece together and reconstruct an equilateral projection from the color-edited cubemap faces used by Space Engine v. 0.990.
-      - The ring texture was cropped to the section used to render the illuminated side, or the side receiving starlight. Unless and until the Kopernicus ring shader exactly matches the one used in Space Engine, this is the method that will be used to create similar rings in Kerbal Space Program. 
-  - Neptune
-    - The textures for Neptune's surface and rings are again both modified versions of ***Snowfall-The-Cat***'s original work as accessed via and reconstructed from Space Engine v. 0.990. The process used to do so is the same as was used to recreate the textures for Uranus.
-  - Pluto-Charon
+    - Mercury
+    - Venus
+    - Earth-Moon
+    - Mars
+    - Ceres
+    - Jupiter
+    - Saturn
+    - Uranus
+      - The textures for Uranus' surface and rings are both modified versions of original work by Deviantart user ***Snowfall-The-Cat***.
+        - The surface texture was created using image-editing software to piece together and reconstruct an equilateral projection from the color-edited cubemap faces used by Space Engine v. 0.990.
+        - The ring texture was cropped to the section used to render the illuminated side, or the side receiving starlight. Unless and until the Kopernicus ring shader exactly matches the one used in Space Engine, this is the method that will be used to create similar rings in Kerbal Space Program. 
+    - Neptune
+      - The textures for Neptune's surface and rings are again both modified versions of ***Snowfall-The-Cat***'s original work as accessed via and reconstructed from Space Engine v. 0.990. The process used to do so is the same as was used to recreate the textures for Uranus.
+    - Pluto-Charon
 
 // - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
