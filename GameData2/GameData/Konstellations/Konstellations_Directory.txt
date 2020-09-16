@@ -1,10 +1,10 @@
-// - - - - - ◊◊◊◊◊◊◊ - - - - - //
-//
-//
-//
-// - - - - - ◊◊◊◊◊◊◊ - - - - - //
-//
-// - - - - - ◊◊◊◊◊◊◊ - - - - - //
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
+// Konstellations Galaxy Pack v. 0.0.0
+// For Kerbal Space Program v. 1.8.1
+// Created (in part) by Douglas Wallwey, 2020 - see README.md for credits for work that isn't mine.
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
+// Includes Kopernicus v 1.8.1-1, Interstellar Consortium v. 1.7.3-2, and Tilt'Em v. 1.3.0
+// - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
 
 //Also, sorry about the numbering system being slightly counter-intuitive
 
