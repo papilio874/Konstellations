@@ -14,13 +14,11 @@ I hope to recieve permission to integrate (by which I mean copy nearly-verbatim 
 
 // - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - ◊ - - - - - //
 
-MUCH OF THIS PACK IS DERIVED OR COPIED FROM OTHER AUTHORS WHO ARE TO BE CREDITED FOR THEIR WORK WHEREVER APPLICABLE. 
+**MUCH OF THIS PACK IS DERIVED OR COPIED FROM OTHER AUTHORS WHO ARE TO BE CREDITED FOR THEIR WORK WHEREVER APPLICABLE.**
 
-
-
-PLANET PACK AUTHORS, PLEASE UNDERSTAND THAT BY NO MEANS IS THIS INTENDED TO PLAGIARIZE AND STEAL;
+**PLANET PACK AUTHORS, PLEASE UNDERSTAND THAT BY NO MEANS IS THIS INTENDED TO PLAGIARIZE AND/OR STEAL;
 BY INTEGRATING YOUR SYSTEMS INTO THIS GALAXY I AM SHOWING MY APPRECIATION FOR THE WORK YOU HAVE PUT 
-INTO OUR MODDING COMMUNITY AND I WILL BE SURE TO GIVE CREDIT WHEREVER CREDIT IS DUE.
+INTO OUR MODDING COMMUNITY AND I WILL BE SURE TO GIVE CREDIT WHEREVER CREDIT IS DUE.**
 
 
 
@@ -46,7 +44,7 @@ Galactic Sector Three
   - Jupiter
   - Saturn
   - Uranus
-    - The texture for Uranus' surface and rings are both modified versions of original work by Deviantart user *Snowfall-The-Cat*.
+    - The texture for Uranus' surface and rings are both modified versions of original work by Deviantart user ***Snowfall-The-Cat***.
       - This was done using image-editing software to piece together and reconstruct an equilateral projection from the color-edited cubemap faces used by Space Engine v. 0.990.
       - The ring texture was cropped to the section used to render the illuminated side, or the side receiving starlight. Unless and until the Kopernicus ring shader exactly matches the one used in Space Engine, this is the method that will be used to create similar rings in Kerbal Space Program. 
   - Neptune
